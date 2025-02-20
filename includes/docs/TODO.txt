@@ -1,0 +1,4 @@
+Finish BrackMage file
+--Add Elemental Obi Auto-Swapping to the Job Script
+
+Start Bard File when Aara decides to actually help.
